@@ -7,7 +7,7 @@ This tool allows you to easily download video songs from YouTube and Spotify by 
 1. **Choose Option:** Select either Spotify or YouTube as your preferred platform.
 2. **Paste Links:** Copy the link(s) of the video song(s) from YouTube or Spotify.
 3. **Add Links:** Paste the link(s) into the tool, separating multiple links by commas.
-4. EX =  https://www.youtube.com/video_1 ,  https://www.youtube.com/video_2 , https://www.youtube.com/video_3 
+4. **EX:**  `VIDEO LINK_1`, `VIDEO LINK_2`, `VIDEO LINK_3`   
 5. **Download:** Click on the download button to start the download process.
 
 **Note:** For downloading multiple links, ensure to separate each link by a comma without spaces.
